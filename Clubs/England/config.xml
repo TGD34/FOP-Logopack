@@ -1,0 +1,58 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		in the resource system, which allows this folder to be dropped into any
+		place in the graphics folder and still have the game pick up the graphics
+		files from the correct places
+	-->
+
+	<list id="maps">
+		<!-- Generated with FMXML for Mac -->
+		<record from="602" to="graphics/pictures/club/602/logo"/>
+		<record from="602" to="graphics/pictures/club/602/logo/huge"/>
+		<record from="740" to="graphics/pictures/club/740/logo"/>
+		<record from="740" to="graphics/pictures/club/740/logo/huge"/>
+		<record from="735" to="graphics/pictures/club/735/logo"/>
+		<record from="735" to="graphics/pictures/club/735/logo/huge"/>
+		<record from="728" to="graphics/pictures/club/728/logo"/>
+		<record from="728" to="graphics/pictures/club/728/logo/huge"/>
+		<record from="692" to="graphics/pictures/club/692/logo"/>
+		<record from="692" to="graphics/pictures/club/692/logo/huge"/>
+		<record from="688" to="graphics/pictures/club/688/logo"/>
+		<record from="688" to="graphics/pictures/club/688/logo/huge"/>
+		<record from="680" to="graphics/pictures/club/680/logo"/>
+		<record from="680" to="graphics/pictures/club/680/logo/huge"/>
+		<record from="679" to="graphics/pictures/club/679/logo"/>
+		<record from="679" to="graphics/pictures/club/679/logo/huge"/>
+		<record from="676" to="graphics/pictures/club/676/logo"/>
+		<record from="676" to="graphics/pictures/club/676/logo/huge"/>
+		<record from="673" to="graphics/pictures/club/673/logo"/>
+		<record from="673" to="graphics/pictures/club/673/logo/huge"/>
+		<record from="667" to="graphics/pictures/club/667/logo"/>
+		<record from="667" to="graphics/pictures/club/667/logo/huge"/>
+		<record from="654" to="graphics/pictures/club/654/logo"/>
+		<record from="654" to="graphics/pictures/club/654/logo/huge"/>
+		<record from="650" to="graphics/pictures/club/650/logo"/>
+		<record from="650" to="graphics/pictures/club/650/logo/huge"/>
+		<record from="642" to="graphics/pictures/club/642/logo"/>
+		<record from="642" to="graphics/pictures/club/642/logo/huge"/>
+		<record from="630" to="graphics/pictures/club/630/logo"/>
+		<record from="630" to="graphics/pictures/club/630/logo/huge"/>
+		<record from="618" to="graphics/pictures/club/618/logo"/>
+		<record from="618" to="graphics/pictures/club/618/logo/huge"/>
+		<record from="617" to="graphics/pictures/club/617/logo"/>
+		<record from="617" to="graphics/pictures/club/617/logo/huge"/>
+		<record from="603" to="graphics/pictures/club/603/logo"/>
+		<record from="603" to="graphics/pictures/club/603/logo/huge"/>
+		<record from="600" to="graphics/pictures/club/600/logo"/>
+		<record from="600" to="graphics/pictures/club/600/logo/huge"/>
+	</list>
+</record>
