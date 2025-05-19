@@ -16,6 +16,7 @@
 
 	<list id="maps">
 		<!-- Generated with FMXML for Mac -->
+		<record from="713" to="graphics/pictures/club/713/icon"/>
 		<record from="740" to="graphics/pictures/club/740/icon"/>
 		<record from="735" to="graphics/pictures/club/735/icon"/>
 		<record from="728" to="graphics/pictures/club/728/icon"/>

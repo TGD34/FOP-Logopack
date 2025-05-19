@@ -16,8 +16,8 @@
 
 	<list id="maps">
 		<!-- Generated with FMXML for Mac -->
-		<record from="602" to="graphics/pictures/club/602/logo"/>
-		<record from="602" to="graphics/pictures/club/602/logo/huge"/>
+		<record from="713" to="graphics/pictures/club/713/logo"/>
+		<record from="713" to="graphics/pictures/club/713/logo/huge"/>
 		<record from="740" to="graphics/pictures/club/740/logo"/>
 		<record from="740" to="graphics/pictures/club/740/logo/huge"/>
 		<record from="735" to="graphics/pictures/club/735/logo"/>
@@ -54,5 +54,7 @@
 		<record from="603" to="graphics/pictures/club/603/logo/huge"/>
 		<record from="600" to="graphics/pictures/club/600/logo"/>
 		<record from="600" to="graphics/pictures/club/600/logo/huge"/>
+		<record from="602" to="graphics/pictures/club/602/logo"/>
+		<record from="602" to="graphics/pictures/club/602/logo/huge"/>
 	</list>
 </record>
